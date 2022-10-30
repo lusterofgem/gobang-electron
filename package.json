@@ -1,0 +1,22 @@
+{
+  "name": "gobang-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lusterofgem/gobang-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lusterofgem/gobang-electron/issues"
+  },
+  "homepage": "https://github.com/lusterofgem/gobang-electron#readme",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
