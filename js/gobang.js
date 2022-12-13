@@ -294,7 +294,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
             case "update-current-color": {
                 const color = message["content"];
-                chessColorImage.src = `/assets/images/${color}.png`;
+                chessColorImage.src = `../assets/images/${color}.png`;
                 break;
             }
             case "update-restart-button-visibility": {
